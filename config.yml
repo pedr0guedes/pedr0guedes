@@ -39,6 +39,10 @@ galaxy_arms:
       - "TypeScript"
       - "React"
       - "CSS"
+  - name: "IDP"
+    color: "backstage"
+    items:
+      - "Backstage"
   - name: "Backend"
     color: "synapse_cyan"
     items:
@@ -71,7 +75,8 @@ theme:
   void: "#080c14"              # Darkest background
   nebula: "#0f1623"            # Card backgrounds
   star_dust: "#1a2332"         # Borders, dividers
-  synapse_cyan: "#00d4ff"      # Primary accent (arm color 1)
+  synapse_cyan: "#00d4ff" 
+  backstage: "#80F3E2"         # Primary accent (arm color 1)
   dendrite_violet: "#a78bfa"   # Secondary accent (arm color 2)
   axon_amber: "#ffb020"        # Tertiary accent (arm color 3)
   text_bright: "#f1f5f9"       # Primary text
