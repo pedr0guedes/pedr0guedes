@@ -14,7 +14,7 @@ username: pedr0guedes
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "Orion Constellation"
+  name: "Dev Constellation"
   tagline: "Platform Engineer & Backstage IDPs"
   company: "Simple Ops"
   location: "San Francisco, CA"
@@ -45,6 +45,7 @@ galaxy_arms:
       - "Python"
       - "Node.js"
       - "PostgreSQL"
+      - "Nest.js"
   - name: "DevOps"
     color: "backstage"
     items:
@@ -62,9 +63,9 @@ projects:
   - repo: "pedr0guedes/my-backstage-app"
     arm: 2
     description: "Personal Internal Developer Platform used for study"
-  - repo: "galaxy-dev/stargate-api"
+  - repo: "pedr0guedes/mediumclone_nestjs"
     arm: 1
-    description: "High-performance API gateway with built-in observability and caching."
+    description: "Nest.js repository used for study"
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
