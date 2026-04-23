@@ -1,5 +1,4 @@
 # Pedr0guedes
-![Meu GitHub Space Shooter](game.gif)
 
 <div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
