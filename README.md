@@ -1,11 +1,11 @@
 # Pedr0guedes
-![Meu GitHub Space Shooter](game.gif)
-
 <div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
 <br/>
+
+![Meu GitHub Space Shooter](game.gif)
 
 <div align="center">
   <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
